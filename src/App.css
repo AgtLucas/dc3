@@ -1,0 +1,12 @@
+.tooltip {
+  background-color: whitesmoke;
+  padding: 5px;
+}
+
+.key {
+  margin: 5px;
+}
+
+select {
+  margin-left: 10px;
+}
